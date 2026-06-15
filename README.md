@@ -24,6 +24,6 @@ Check out the repository for more details! 📝
 
 ## RaphaRZ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaZRZ&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaRZ&show_icons=true)
 
 📫 How to reach me -> raphazlinked@gmail.com
