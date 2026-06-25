@@ -2,17 +2,26 @@
 
 I'm a student of Systems Analysis and Development at PUCPR. Here you will find my personal and academic projects.
 
+## Client Manager API 👥📇
+
+Client Manager API is a RESTful API for managing clients and their contacts. It was built using Java with Spring Boot, Spring Data JPA, PostgreSQL, Docker, and follows clean architecture principles with DTOs, automated tests, and Swagger/OpenAPI documentation.
+
+Check out the repository for more details! 📝\
+[Repository](https://github.com/RaphaRZ/client-management-api)
+
 ## Simplified PicPay(RESTful API) 💵💱
 
 Simplified PicPay is a simplified payment platform. It was created using Java with the Spring Boot framework, HTML/CSS/JS for the front-end(in development) and a MySQL database.
 
-Check out the repository for more details! 📝
+Check out the repository for more details! 📝\
+[Repository](https://github.com/RaphaZRZ/SimplifiedPicPay)
 
 ## Sistema de Financiamentos 🏠💰
 
 Sistema de Financiamentos is an academic project focused on improving Object Oriented Programming skills, such as abstraction, polymorphism, inheritance, encapsulation, and the structuring of classes and methods.
 
-Check out the repository for more details! 📝
+Check out the repository for more details! 📝\
+[Repository](https://github.com/RaphaZRZ/SistemaDeFinanciamento)
 
 ## Technologies I know 👨‍💻
 
